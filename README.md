@@ -1,0 +1,2 @@
+# formateo
+recuperación de laptop
